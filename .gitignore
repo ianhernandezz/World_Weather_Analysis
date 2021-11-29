@@ -1,9 +1,9 @@
 # Adding config.py file.
-/Users/ianhernandez/Desktop/Data Analytics /Module 6/World_Weather_Analysis/config.py
+config.py
 
 # Adding additonal files.
-/Users/ianhernandez/Desktop/Data Analytics /Module 6/World_Weather_Analysis/API_practice.ipynb
-/Users/ianhernandez/Desktop/Data Analytics /Module 6/World_Weather_Analysis/random_numbers.ipynb
+API_practice.ipynb
+random_number.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
